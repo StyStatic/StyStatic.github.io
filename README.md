@@ -1,0 +1,1 @@
+# StyStatic.github.io
