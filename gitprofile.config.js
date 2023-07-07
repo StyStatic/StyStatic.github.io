@@ -40,18 +40,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Self-Employed',
+      position: 'Freelance Java Developer',
+      from: 'January 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://stystatic.tech',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Self-Employed/Curseforge',
+      position: 'Minecraft Mod Developer',
+      from: 'January 2022',
+      to: 'Present,
+      companyLink: 'https://legacy.curseforge.com/members/stystatic/projects',
     },
   ],
   /* certifications: [
@@ -64,34 +64,28 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'School',
+      degree: 'Stay in school kids',
+      from: 'No clue',
+      to: 'Present',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Advanced Combat (Revitalized)',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'A modern recreation of Advanced Combat from scratch',
+      imageUrl: 'https://www.curseforge.com/minecraft/mc-mods/advanced-combat-revitalized',
+      link: 'https://www.curseforge.com/minecraft/mc-mods/advanced-combat-revitalized',
     },
     {
-      title: 'Project Name',
+      title: 'Dimension Localized Inventories',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Adds a seperate inventory for each dimension, with an ability to group together dimension inventories or exclude dimensions all together',
+      imageUrl: 'https://media.forgecdn.net/avatars/841/226/638235708143988194.png',
+      link: 'https://legacy.curseforge.com/minecraft/mc-mods/dimension-localized-inventories',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -109,11 +103,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
@@ -124,35 +118,6 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
       'procyon',
     ],
 
