@@ -77,7 +77,7 @@ const config = {
       title: 'Advanced Combat (Revitalized)',
       description:
         'A modern recreation of Advanced Combat from scratch',
-      imageUrl: 'https://www.curseforge.com/minecraft/mc-mods/advanced-combat-revitalized',
+      imageUrl: 'https://media.forgecdn.net/avatars/526/256/637845299674396604.png',
       link: 'https://www.curseforge.com/minecraft/mc-mods/advanced-combat-revitalized',
     },
     {
