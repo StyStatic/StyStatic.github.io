@@ -50,7 +50,7 @@ const config = {
       company: 'Self-Employed/Curseforge',
       position: 'Minecraft Mod Developer',
       from: 'January 2022',
-      to: 'Present,
+      to: 'Present',
       companyLink: 'https://legacy.curseforge.com/members/stystatic/projects',
     },
   ],
