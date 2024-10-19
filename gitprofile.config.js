@@ -34,9 +34,10 @@ const config = {
   },
   skills: [
     'Java',
+    'Visual Basic',
+    'C++'.
     'Lua',
-    'Python',
-    'Zenscript'
+    'Python'
   ],
   experiences: [
     {
@@ -44,7 +45,7 @@ const config = {
       position: 'Freelance Java Developer',
       from: 'January 2022',
       to: 'Present',
-      companyLink: 'https://stystatic.tech',
+      companyLink: 'https://stystatic.cc',
     },
     {
       company: 'Self-Employed/Curseforge',
