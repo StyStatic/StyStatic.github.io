@@ -24,7 +24,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://stystatic.tech',
+    website: 'https://twitch.tv/stystatic',
     phone: '',
     email: 'stystatic@gmail.com',
   },
@@ -65,10 +65,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'School',
-      degree: 'Nondescript Associates of Science',
+      institution: 'Community College',
+      degree: 'Associates of Science',
       from: 'August 2024',
       to: 'May 2025',
+    },
+    {
+      institution: 'High School',
+      degree: 'High School Diploma',
+      from: 'August 2021',
+      to: 'June 2024',
     },
   ],
 
@@ -115,7 +121,7 @@ const config = {
     respectPrefersColorScheme: false,
 
     // Hide the ring in Profile picture
-    hideAvatarRing: false,
+    hideAvatarRing: true,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
