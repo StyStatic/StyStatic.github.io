@@ -151,7 +151,7 @@ export const sanitizeConfig = (config) => {
       facebook: config?.social?.facebook,
       instagram: config?.social?.instagram,
       youtube: config?.social?.youtube,
-      twitchL config?.social?.twitch,
+      twitch: config?.social?.twitch,
       dribbble: config?.social?.dribbble,
       behance: config?.social?.behance,
       medium: config?.social?.medium,
