@@ -17,6 +17,7 @@ const config = {
     facebook: '',
     instagram: 'realstystatic',
     youtube: 'stystatic', // example: 'pewdiepie'
+    twitch: 'stystatic',
     dribbble: '',
     behance: '',
     medium: '',
