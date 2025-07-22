@@ -66,9 +66,9 @@ const config = {
   education: [
     {
       institution: 'School',
-      degree: 'Stay in school kids',
-      from: 'No clue',
-      to: 'Present',
+      degree: 'Nondescript Associates of Science',
+      from: 'August 2024',
+      to: 'May 2025',
     },
   ],
 
