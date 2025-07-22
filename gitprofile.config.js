@@ -120,16 +120,15 @@ const config = {
     // Available themes. To remove any theme, exclude from here.
     themes: [
       'procyon',
-      'customTheme',
     ],
 
     // Custom theme
     customTheme: {
-      primary: '#870000',
+      primary: '#93D2FF',
       secondary: '#219aaf',
       accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#4b4b4b',
+      neutral: '#66bfff',
+      'base-100': '#80caff',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
