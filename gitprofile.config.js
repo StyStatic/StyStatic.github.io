@@ -34,9 +34,10 @@ const config = {
   },
   skills: [
     'Java',
+    'Visual Basic',
+    'C++',
     'Lua',
-    'Python',
-    'Zenscript'
+    'Python'
   ],
   experiences: [
     {
@@ -44,7 +45,7 @@ const config = {
       position: 'Freelance Java Developer',
       from: 'January 2022',
       to: 'Present',
-      companyLink: 'https://stystatic.tech',
+      companyLink: 'https://stystatic.cc',
     },
     {
       company: 'Self-Employed/Curseforge',
@@ -65,9 +66,9 @@ const config = {
   education: [
     {
       institution: 'School',
-      degree: 'Stay in school kids',
-      from: 'No clue',
-      to: 'Present',
+      degree: 'Nondescript Associates of Science',
+      from: 'August 2024',
+      to: 'May 2025',
     },
   ],
 
